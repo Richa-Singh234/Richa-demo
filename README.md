@@ -1,2 +1,3 @@
 # Richa-demo
 This is my first Git Repository.
+Author: Richa Singh
